@@ -1,121 +1,57 @@
-# Hi, I'm Aditya Sahrawat
+# Aditya Sahrawat
 
-Backend Engineer interested in distributed systems, payment infrastructure, observability, and geospatial AI.
+```go
+Backend Engineer
 
-Currently pursuing B.Tech in Computer Science at IIIT Dharwad and building production-grade backend systems using Go, Python, PostgreSQL, and cloud-native tooling.
+Building distributed systems, payment infrastructure,
+observability tooling, and GeoAI applications.
+```
 
----
+### Current Focus
 
-## What I'm Working On
+```txt
+→ Backend Engineering
+→ Distributed Systems
+→ Platform & Infrastructure
+→ Observability
+→ GeoAI
+```
 
-* Building scalable backend services and APIs in Go
-* Exploring distributed systems and event-driven architectures
-* Working with observability stacks (Prometheus, Grafana, Loki)
-* Developing GeoAI solutions using satellite imagery and machine learning
-* Learning infrastructure engineering and platform tooling
+### Tech Stack
 
----
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge\&logo=go)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge\&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
+![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge\&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge\&logo=grafana)
 
-## Featured Projects
+### Highlights
 
-### Infra Ref Agent
+```yaml
+experience:
+  role: Software Engineer Intern
+  company: Giddly
 
-AI-powered SRE and observability assistant that ingests Prometheus and Alertmanager alerts, performs automated root-cause analysis, and coordinates investigations through a multi-agent architecture.
+projects:
+  - Infra Ref Agent
+  - Illegal Sand Mining Detection
+  - SketchHub
+  - DreamHome
+```
 
-**Tech:** Go, Python, PostgreSQL, Prometheus, Alertmanager, LLMs
+### Currently Building
 
----
+```bash
+$ building production backend services
+$ learning platform engineering
+$ exploring distributed systems patterns
+$ working with satellite imagery & GeoAI
+```
 
-### Illegal Sand Mining Detection
+### Connect
 
-GeoAI pipeline that analyzes 30GB+ of Sentinel-2 satellite imagery across a multi-year temporal window to identify riverbed excavation and environmental changes.
-
-**Tech:** Python, Rasterio, GeoPandas, PostGIS, PyTorch, Sentinel-2
-
----
-
-### SketchHub
-
-Real-time collaborative whiteboard supporting multi-user synchronization using WebSockets and event-driven architecture.
-
-**Tech:** Next.js, TypeScript, WebSockets, Fly.io
-
----
-
-### DreamHome
-
-End-to-end real estate platform with property listings, appointment scheduling, booking workflows, and integrated communication features.
-
-**Tech:** Next.js, PostgreSQL, Prisma, Azure, GitHub Actions
-
----
-
-## Tech Stack
-
-### Backend
-
-* Go
-* Node.js
-* Python
-* REST APIs
-* WebSockets
-* Event-Driven Systems
-
-### Databases
-
-* PostgreSQL
-* Redis
-
-### Infrastructure & DevOps
-
-* Docker
-* GitHub Actions
-* Azure
-* Nginx
-* Linux
-
-### Observability
-
-* Prometheus
-* Grafana
-* Loki
-
-### Data & GeoAI
-
-* Pandas
-* GeoPandas
-* Rasterio
-* PostGIS
-* PyTorch
-
----
-
-## Areas of Interest
-
-* Distributed Systems
-* Backend Engineering
-* Payment Infrastructure
-* Observability Engineering
-* Platform Engineering
-* Geospatial AI
-* Developer Tools
-
----
-
-## Experience
-
-**Software Engineer Intern @ Giddly**
-
-Working on production backend systems, fintech workflows, observability tooling, community services, and data pipelines.
-
----
-
-## Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/aditya-sahrawat
-* GitHub: https://github.com/AdityaSahrawat
-* Email: [adityasahrawat125@gmail.com](mailto:adityasahrawat125@gmail.com)
-
----
-
-> Building systems that are reliable, observable, and designed to scale.
+[LinkedIn](https://www.linkedin.com/in/aditya-sahrawat) •
+[Email](mailto:adityasahrawat125@gmail.com)
