@@ -1,57 +1,67 @@
-# Aditya Sahrawat
+<h2>Hey 👋, I'm Aditya</h2>
 
-```go
+<p>
+Backend Engineer focused on distributed systems, payment infrastructure,
+observability, and GeoAI.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/aditya-sahrawat">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:adityasahrawat125@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/AdityaSahrawat">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+</p>
+
+<img align="right" width="380" src="./assets/coding.gif" />
+
+<h2>⚡ A Few Quick Facts</h2>
+
+<ul>
+<li>🔭 Currently working as a <strong>Software Engineer Intern @ Giddly</strong></li>
+<li>🏗 Building backend systems using <strong>Go, Python & PostgreSQL</strong></li>
+<li>📊 Interested in <strong>Distributed Systems</strong> and <strong>Observability Engineering</strong></li>
+<li>🌍 Exploring <strong>GeoAI</strong> through satellite imagery and geospatial data</li>
+<li>🚀 Building projects around infrastructure, automation, and scale</li>
+<li>💬 Ask me about <strong>Go, PostgreSQL, Docker, Prometheus, Grafana & System Design</strong></li>
+</ul>
+
+<h2>📌 Featured Projects</h2>
+
+<ul>
+<li><strong>Infra Ref Agent</strong> — AI-powered SRE & observability assistant</li>
+<li><strong>Illegal Sand Mining Detection</strong> — GeoAI pipeline using Sentinel-2 imagery</li>
+<li><strong>SketchHub</strong> — Real-time collaborative whiteboard with WebSockets</li>
+<li><strong>DreamHome</strong> — Full-stack real estate platform</li>
+</ul>
+
+<h2>🚀 Tech Stack</h2>
+
+<p>
+<img src="https://skillicons.dev/icons?i=go,python,nodejs,ts,postgres,redis,docker,githubactions,azure,nginx" />
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,linux,git,nextjs,tailwind" />
+</p>
+
+<h2>📈 GitHub Stats</h2>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=AdityaSahrawat&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<pre>
 Backend Engineer
-
-Building distributed systems, payment infrastructure,
-observability tooling, and GeoAI applications.
-```
-
-### Current Focus
-
-```txt
-→ Backend Engineering
-→ Distributed Systems
-→ Platform & Infrastructure
-→ Observability
-→ GeoAI
-```
-
-### Tech Stack
-
-![Go](https://img.shields.io/badge/Go-000?style=for-the-badge\&logo=go)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge\&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge\&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge\&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge\&logo=docker)
-![Prometheus](https://img.shields.io/badge/Prometheus-000?style=for-the-badge\&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-000?style=for-the-badge\&logo=grafana)
-
-### Highlights
-
-```yaml
-experience:
-  role: Software Engineer Intern
-  company: Giddly
-
-projects:
-  - Infra Ref Agent
-  - Illegal Sand Mining Detection
-  - SketchHub
-  - DreamHome
-```
-
-### Currently Building
-
-```bash
-$ building production backend services
-$ learning platform engineering
-$ exploring distributed systems patterns
-$ working with satellite imagery & GeoAI
-```
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/aditya-sahrawat) •
-[Email](mailto:adityasahrawat125@gmail.com)
+├── Distributed Systems
+├── Payment Infrastructure
+├── Observability
+├── GeoAI
+└── Developer Tools
+</pre>
