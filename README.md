@@ -24,7 +24,7 @@ observability, and GeoAI.
 <h2>⚡ A Few Quick Facts</h2>
 
 <ul>
-<li>🔭 Currently working as a <strong>Software Engineer Intern @ Giddly</strong></li>
+<li>🔭 Focusing on building scalable backend services, distributed systems, and GeoAI pipelines</li>
 <li>🏗 Building backend systems using <strong>Go, Python & PostgreSQL</strong></li>
 <li>📊 Interested in <strong>Distributed Systems</strong> and <strong>Observability Engineering</strong></li>
 <li>🌍 Exploring <strong>GeoAI</strong> through satellite imagery and geospatial data</li>
@@ -38,7 +38,7 @@ observability, and GeoAI.
 <li><strong>Infra Ref Agent</strong> — AI-powered SRE & observability assistant</li>
 <li><strong>Illegal Sand Mining Detection</strong> — GeoAI pipeline using Sentinel-2 imagery</li>
 <li><strong>SketchHub</strong> — Real-time collaborative whiteboard with WebSockets</li>
-<li><strong>DreamHome</strong> — Full-stack real estate platform</li>
+<li><strong>2D Metaverse Platform</strong> — Real-time interactive virtual space for social interactions using WebSockets.</li>
 </ul>
 
 <h2>🚀 Tech Stack</h2>
